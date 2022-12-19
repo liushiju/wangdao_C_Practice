@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01.判断某个年份是不是闰年", "01.判断某个年份是不是闰年\01.判断某个年份是不是闰年.vcxproj", "{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Debug|x64.ActiveCfg = Debug|x64
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Debug|x64.Build.0 = Debug|x64
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Debug|x86.Build.0 = Debug|Win32
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Release|x64.ActiveCfg = Release|x64
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Release|x64.Build.0 = Release|x64
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Release|x86.ActiveCfg = Release|Win32
+		{DB2BC564-3A08-4DE4-8D1D-A18ACD096E7B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3A899DE-381C-4A3F-B9F1-2C239323366C}
+	EndGlobalSection
+EndGlobal
